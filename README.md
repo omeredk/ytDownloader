@@ -1,5 +1,4 @@
 # Youtube Downloader
-YouTube Video Downloader
 ### Built With:
 * PyQt5
 * pytube
